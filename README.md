@@ -20,3 +20,7 @@ You can find the following files:
 - Learnt about simple Bigram model >> single head attention >> multi head attention >> Transformer block, Feed-forward mechanisms, residual connections, layer normalisations, and many more to optimise the model.
 - Understood the structure of a Transformer.
 - The use of Softmax and ReLU activation functions in building Transformers
+
+## Credit/Disclaimer
+
+Code in this repository is mainly from Andrej Karpathy's video, and is not mine. I only typed it out for learning purposes. All credits go to Andrej Karpathy.
