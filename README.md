@@ -1,6 +1,6 @@
 ## Introduction
 
-This repository was just for me to track some of my self-directed learning. In my first iteration, I explore the architecture that built ChatGPT and many other LLMS - Transformers. Thanks to this video by Andrej Karpathy [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY), I was able to understand the Transformer architecture much better. This was quite a good course to start on learning LLMs, and I highly reccomend it for anyone interested in LLMs.
+This repository was just for me to track some of my self-directed learning. My interest grew towards a groundbreaking research paper - "Attention is all you need." Hence in my first iteration, I explored the architecture that built ChatGPT and many other LLMS - Transformers. Thanks to this video by Andrej Karpathy [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY), I was able to understand the Transformer architecture much better. This was quite a good course to start on learning LLMs, and I highly reccomend it for anyone interested in LLMs.
 
 
 ## Repository
@@ -14,6 +14,7 @@ You can find the following files:
 
 ## Takeaways
 
+- Picked up the Pytorch library
 - Tokenization and embeddings from scratch
 - Matrix multiplication and linear algebra involved in manipulating vector embeddings
 - Learnt about the various types of attention and how it is used
@@ -23,4 +24,4 @@ You can find the following files:
 
 ## Credit/Disclaimer
 
-Code in this repository is mainly from Andrej Karpathy's video, and is not mine. I only typed it out for learning purposes. All credits go to Andrej Karpathy.
+Code in this repository is mainly from Andrej Karpathy's video, and is not mine. I only typed it out and followed the tutorial for learning purposes. All credits go to Andrej Karpathy.
