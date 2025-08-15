@@ -26,5 +26,5 @@ You can find the following files:
 
 Code in this repository is mainly from Andrej Karpathy's video, and is not mine. I only typed it out and followed the tutorial for learning purposes. All credits go to Andrej Karpathy and also the researchers behind the paper. 
 
-# References
+## References
 Vaswani, A., Shazeer, N., Parmar, N., et al. (2017) Attention Is All You Need. arXiv: 1706.03762.
